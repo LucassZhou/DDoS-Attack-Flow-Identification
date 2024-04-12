@@ -1,0 +1,5 @@
+# DDoS-Attack-Flow-Identification
+
+Distributed Denial of Service (DDoS) attacks pose a significant threat to the availability of online services. These attacks involve attackers deliberately sending massive volumes of traffic to a target system, overwhelming its computational resources—such as CPU and memory—and rendering the services unavailable. Effectively identifying these malicious traffic flows is crucial to mitigating the impact of DDoS attacks.
+
+In this project, we propose a machine learning-based approach to accurately identify attack flows, addressing one of the key challenges in the field: the classification of imbalanced data in a supervised learning context. Our methodology not only distinguishes between benign and malicious traffic but also offers insights into the effectiveness of different algorithms under conditions where class distributions are highly uneven. This research contributes to the development of more resilient online systems, capable of sustaining their operations under potential DDoS threats.
